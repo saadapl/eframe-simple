@@ -1,0 +1,6 @@
+[build]
+filehash = false
+
+[serve]
+addresses = ["17.76.57.76"]
+port = 8000
