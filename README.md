@@ -1,12 +1,10 @@
-# Simple-eframe
+# Usage
 
-## Usage
-
-### Native App
+## Native App
 
 Run command `cargo run --release` in root folder.
 
-### Web Locally
+## Web Locally
 
 1. Install the required target with `rustup target add wasm32-unknown-unknown`.
 2. Install Trunk with `cargo install --locked trunk`.
